@@ -1,4 +1,4 @@
-Distributed File System
+#Distributed File System
 
 A basic distributed file system implementation inspired by large-scale architectures like Facebook's News Feed.
 
@@ -107,8 +107,14 @@ Commit your changes and open a pull request.
 Please follow the coding style and include tests if possible.
 For detailed guidelines, you might create a separate CONTRIBUTING.md file.
 
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 Contact
 
 For questions, suggestions, or collaborations, feel free to reach out:
 
-Email: chsomayajulusharma@gmail.com
+Email: your.email@example.com
+LinkedIn: Your LinkedIn Profile
+GitHub: Your GitHub Profile
