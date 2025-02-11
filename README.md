@@ -1,4 +1,4 @@
-#Distributed File System
+# Distributed File System
 
 A basic distributed file system implementation inspired by large-scale architectures like Facebook's News Feed.
 
